@@ -1,0 +1,2 @@
+Introduction to Databases has no concrete new commands to learn.
+It teaches the basic summaries/discriptions on what databases consist of and why the look like they do.
